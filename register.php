@@ -1,0 +1,3 @@
+<?
+ echo "finish registe feature";
+?>
