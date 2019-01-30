@@ -6,5 +6,8 @@
             "email": "zhihao.jiao@mdpi.com"
         }
     ],
+    "autoload":{
+    	"psr-4":{"www\\":}
+    },
     "require": {}
 }
