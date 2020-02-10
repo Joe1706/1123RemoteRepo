@@ -1,9 +1,9 @@
 {
-    "name": "jiaozhihao/1123remote-repo",
+    "name": "mdpi/1123remote-repo",
     "authors": [
         {
-            "name": "Zhihao Jiao",
-            "email": "zhihao.jiao@mdpi.com"
+            "name": "MDPI",
+            "email": "test@mdpi.com"
         }
     ],
     "autoload": {
